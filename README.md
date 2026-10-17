@@ -40,3 +40,12 @@ Projects will be added progressively as I learn, practice,
 and build solutions.
 
 
+
+## Featured Project
+
+### AWS Three-Tier E-Commerce Application
+
+A hands-on project using AWS VPC, public and private subnets, EC2, Apache,
+PHP, MariaDB, and security groups.
+
+[View project documentation and source files](01-end-to-end-projects/aws-three-tier-ecommerce/README.md)
