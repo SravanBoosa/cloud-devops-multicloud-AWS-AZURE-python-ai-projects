@@ -1,1 +1,3 @@
-Calculator version: branch floor division
+
+Calculator version: branch floor division and  branch modulus operator with Git conflict practice
+
