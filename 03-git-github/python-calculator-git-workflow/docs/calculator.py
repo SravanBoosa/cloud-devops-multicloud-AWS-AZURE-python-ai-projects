@@ -7,6 +7,7 @@ print("+  Addition")
 print("-  Subtraction")
 print("*  Multiplication")
 print("/  Division")
+print("//  Floor division")
 
 operation = input("Enter your choice (+, -, *, /): ")
 
@@ -25,6 +26,13 @@ elif operation == "*":
 elif operation == "/":
     if num2 != 0:
         result = num1 / num2
+        print("Result:", result)
+    else:
+        print("Error: Cannot divide by zero.")
+
+elif operation == "//":
+    if num2 != 0:
+        result = num1 // num2
         print("Result:", result)
     else:
         print("Error: Cannot divide by zero.")
