@@ -10,7 +10,7 @@ print("/  Division")
 print("//  Floor division")
 print("%   Modulus (remainder)")
 
-operation = input("Enter your choice (+, -, *, /): ")
+operation = input("Enter your choice (+, -, *, /, //, %): ")
 
 if operation == "+":
     result = num1 + num2
