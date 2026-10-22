@@ -7,6 +7,7 @@ print("+  Addition")
 print("-  Subtraction")
 print("*  Multiplication")
 print("/  Division")
+print("//  Floor division")
 
 operation = input("Enter your choice (+, -, *, /): ")
 
